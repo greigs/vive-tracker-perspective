@@ -129,7 +129,14 @@
     <Compile Include="Assets\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
+    <Compile Include="Assets\Scripts\Projection\AutoMoveTracker.cs" />
+    <Compile Include="Assets\Scripts\Projection\BasicMovement.cs" />
+    <Compile Include="Assets\Scripts\Projection\KeyboardTracker.cs" />
+    <Compile Include="Assets\Scripts\Projection\ProjectionPlane.cs" />
+    <Compile Include="Assets\Scripts\Projection\ProjectionPlaneCamera.cs" />
+    <Compile Include="Assets\Scripts\Projection\TrackerBase.cs" />
     <Compile Include="Assets\SetShaderParams.cs" />
+    <Compile Include="Assets\SteamVR_Resources\PerspectiveCam.cs" />
     <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Fog.shader" />
